@@ -1,0 +1,19 @@
+35
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 1 "../src/traficLights.v" 1 TrafficLightController
+~A 1 "../src/traficLights.v" 1 TrafficLightController
+~M 3 "../src/traficLights.v" 154 TrafficLightController_tb
+~A 1 "../src/traficLights.v" 154 TrafficLightController_tb
+~M 1 "../src/traficLights.v" 1 traffic
+~A 1 "../src/traficLights.v" 1 traffic
+~M 1 "../src/traficLights.v" 1 trafficLights
+~A 1 "../src/traficLights.v" 1 trafficLights
+~M 3 "../src/traficLights.v" 156 trafficLights_tb
+~A 1 "../src/traficLights.v" 156 trafficLights_tb
+~M 1 "../src/traficLights.v" 1 traffic_light_controller
+~A 1 "../src/traficLights.v" 1 traffic_light_controller
+~M 3 "../src/traficLights.v" 189 traffic_light_controller_tb
+~A 1 "../src/traficLights.v" 189 traffic_light_controller_tb
+~M 3 "../src/traficLights.v" 156 traffic_tb
+~A 1 "../src/traficLights.v" 156 traffic_tb

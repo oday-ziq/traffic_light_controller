@@ -1,0 +1,1 @@
+-o "E:/Advance Digital/project/trafic/compile" -lc "E:/Advance Digital/project/library.cfg" -fl "E:/Advance Digital/project/trafic/projlib.cfg" -pli "E:/bin/systf.dll" -epr "E:/Advance Digital/project/trafic/compile/trafic.epr" -O2 -sve -msg 5 -sv2k12 -work trafic "E:/Advance Digital/project/trafic/src/traficLights.v" 

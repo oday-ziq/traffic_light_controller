@@ -1,0 +1,85 @@
+timestamp=1674911786909
+
+[~A]
+E:/Advance Digital/project/trafic/src/traficLights.v=0*92770*94111
+LastVerilogToplevel=trafficLights_tb
+ModifyID=35
+Version=74
+
+[~MFT]
+0=7|0trafic.mgf|94111|65444
+1=6|1trafic.mgf|204657|182537
+3=12|3trafic.mgf|301832|268866
+
+[$root]
+A/$root=22|||1*199997
+BinW64/$root=3*294177
+SLP=3*294292
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216c396bea8abfaed40a9caf946074c07e3
+
+[TrafficLightController]
+A/TrafficLightController=22|../src/traficLights.v|1|1*73480
+BinW64/TrafficLightController=3*109417
+R=../src/traficLights.v|1
+SLP=3*113329
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|bf66b95084b4d6c7b5bf8140be07a8dbd319c0f365705eff53780626eafdcb646e0e4dcd65f7e204e2eba40128f6a4af
+
+[TrafficLightController_tb]
+A/TrafficLightController_tb=22|../src/traficLights.v|154|1*77748
+BinW64/TrafficLightController_tb=3*115816
+R=../src/traficLights.v|154
+SLP=3*116870
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|bf66b95084b4d6c7b5bf8140be07a8db3097b45445922c615c9ce103f4aeed2396540171e4f063c88ce36722337d92a8f8dbd95d52e098919d9be9791e422897
+
+[traffic]
+A/traffic=22|../src/traficLights.v|1|1*181832
+BinW64/traffic=3*269121
+R=../src/traficLights.v|1
+SLP=3*273018
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|d1e2757c74752b8f449bb96f389a289f26527262ddaa47cb266f3a3c4d9b973a170d851092fed0632d8bdf01043f621c
+
+[trafficLights]
+A/trafficLights=22|../src/traficLights.v|1|1*200419
+BinW64/trafficLights=3*294360
+R=../src/traficLights.v|1
+SLP=3*298263
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ee3475b6df7f35156b00d1638cd118dfc6beeacd40e267d10a030c8c4a523c6c0619246f6bd9a14c2399ed1acf00a053
+
+[trafficLights_tb]
+A/trafficLights_tb=22|../src/traficLights.v|156|1*204657
+BinW64/trafficLights_tb=3*300728
+R=../src/traficLights.v|156
+SLP=3*301832
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ee3475b6df7f35156b00d1638cd118dff3e7d7a5b11a1bef0f9884c2a824a2664730867c29a399c837f3fdf10350ce07
+
+[traffic_light_controller]
+A/traffic_light_controller=22|../src/traficLights.v|1|1*169372
+BinW64/traffic_light_controller=3*251700
+R=../src/traficLights.v|1
+SLP=3*256710
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|632dafd93e42036f24947de725b4b1ce761bb247a895a3109650edb837c143165611a8c772c575760ed78072f719b1eb43eb79d29e6a1d1b986ca46b215dc829
+
+[traffic_light_controller_tb]
+A/traffic_light_controller_tb=22|../src/traficLights.v|189|1*173640
+BinW64/traffic_light_controller_tb=3*259275
+R=../src/traficLights.v|189
+SLP=3*260084
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|632dafd93e42036f24947de725b4b1ce61fe10b6bef3a6a684f1cca3cbaf512e8ad9058530020613c4ffe6b7868d463430d3ebfb00f1a518396eea578a79fedc
+
+[traffic_tb]
+A/traffic_tb=22|../src/traficLights.v|156|1*186046
+BinW64/traffic_tb=3*275474
+R=../src/traficLights.v|156
+SLP=3*276572
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|54fd3479e967ce0d19377193bef838a50854de2e9e2a55bec9f0c6afd0094ba2fe9d52362ec0d902cf889b624d86d2f4
+
+[~U]
+$root=12|0*91971|
+TrafficLightController=12|0*37428|
+TrafficLightController_tb=12|0*37816||0x10
+traffic=12|0*84316|
+trafficLights=12|0*92217|
+trafficLights_tb=12|0*92589||0x10
+traffic_light_controller=12|0*78887|
+traffic_light_controller_tb=12|0*79277||0x10
+traffic_tb=12|0*84678||0x10
